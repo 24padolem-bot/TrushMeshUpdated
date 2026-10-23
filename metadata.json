@@ -1,0 +1,8 @@
+{
+  "name": "Remix TrustMesh - Multi-Agent AI Trust \u0026 Verification Framework",
+  "description": "An intelligent trust, verification, and audit framework for multi-agent AI systems, monitoring and securing inter-agent handoffs in insurance claim processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

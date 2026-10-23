@@ -1,0 +1,5 @@
+# TrustMesh Python Engine
+# Standard Python 3.10+ (Zero external dependencies required - standard library only!)
+# Optional testing & typing enhancements:
+pytest>=7.0.0
+mypy>=1.0.0
